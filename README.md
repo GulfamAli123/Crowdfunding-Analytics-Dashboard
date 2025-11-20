@@ -39,9 +39,9 @@ This project delves into Kickstarter's extensive crowdfunding dataset, analyzing
 
 | Tool      | Dashboard Types   | Description |
 |-----------|-------------------|-------------|
-| Excel     | Dashboard 1, 2    | Basic trend & KPI visualizations using slicers and pivot charts |
-| Tableau   | Dashboard 1, 2, 3 | Interactive filtering by category, goal range, location, outcome |
-| Power BI  | Dashboard 1, 2, 3 | Advanced BI visuals, KPIs with DAX, and trend analysis across time |
+| Excel     | Dashboard 1    | Basic trend & KPI visualizations using slicers and pivot charts |
+| Tableau   | Dashboard 1, 2 | Interactive filtering by category, goal range, location, outcome |
+| Power BI  | Dashboard 1, 2 | Advanced BI visuals, KPIs with DAX, and trend analysis across time |
 
 ---
 
